@@ -1,0 +1,1 @@
+The site is ready to view in https://salmanyg.github.io/SWE363-HW1/
